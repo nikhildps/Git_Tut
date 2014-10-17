@@ -1,5 +1,7 @@
 GIT Commands learned
 
+git init //making a directory gitable
+
 1. git add   //to add a new file to staging area/put a modified tracked file in staging area
 
 2. git commit //commit changes
@@ -9,3 +11,12 @@ GIT Commands learned
 4. git diff //diff files from unstaged and staged
 
 5. git commit -a // directly commit trackable files
+
+
+6. git commit --amend //changing the last commit we made
+
+7. git log //getting a log of all commitmenets
+
+8. git log -p //getting the diffs in each commit
+
+9. gitk //graphical user interface
