@@ -20,3 +20,8 @@ git init //making a directory gitable
 8. git log -p //getting the diffs in each commit
 
 9. gitk //graphical user interface
+
+10. git remote add origin [url]
+	git remote -v
+	git push origin master
+	
