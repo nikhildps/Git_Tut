@@ -25,3 +25,5 @@ git init //making a directory gitable
 	git remote -v
 	git push origin master
 	
+11. http://www.gitguys.com/topics/merging-with-a-gui/ (for mergining conflicts using GUI)
+	
