@@ -1,0 +1,11 @@
+GIT Commands learned
+
+1. git add   //to add a new file to staging area/put a modified tracked file in staging area
+
+2. git commit //commit changes
+
+3. git status //checking which files are in modified region
+
+4. git diff //diff files from unstaged and staged
+
+5. git commit -a // directly commit trackable files
